@@ -1,0 +1,16 @@
+{
+  "name": "jawira/mini-math",
+  "description": "Use MiniMath to learn PHPUnit",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jawira Portugal",
+      "email": "dev@tugal.be"
+    }
+  ],
+  "require": {
+    "ext-xdebug": "^2.7",
+    "php": "^7.3"
+  }
+}
